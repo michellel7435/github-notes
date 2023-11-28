@@ -1,6 +1,6 @@
 # github-notes
 
-Git                                      
+Git     
+Github            
 Repo                              
-Commit                                
-Github
+Commit                                 
